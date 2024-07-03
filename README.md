@@ -8,4 +8,6 @@ Mata Kuliah : Algoritma dan Pemrograman
 
 Kelas       : A
 
+Untuk UAS nya ada di file dengan nama SistemBookingHotel.java
+
 Maaf pak hasilnya kurang memuaskan bapak karena saya baru bisa bikin program kayak gitu pak, soalnya saya pernah nyoba sekali pake springboot tapi saya bingung akhirnya ga dilanjut lagi pak.
