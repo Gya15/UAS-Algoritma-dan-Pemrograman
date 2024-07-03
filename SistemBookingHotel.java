@@ -66,7 +66,6 @@ class Pengguna {
         dataPengguna = new HashMap<>();
       
         dataPengguna.put("GhostFog", "Nekopoi12");
-        dataPengguna.put("user2", "password2");
     }
 
     public boolean login(String username, String password) {
